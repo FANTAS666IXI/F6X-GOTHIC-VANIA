@@ -10,10 +10,10 @@
 
 - **Controls :**
 
-  - **Right : `D/→`**
-  - **Left : `A/←`**
-  - **Jump : `W/Space`**
-  - **Attack : `J/→`**
+  - **Right : `D / →`**
+  - **Left : `A / ←`**
+  - **Jump : `W / Space`**
+  - **Attack : `J / →`**
   - **Crouch : `Left Control`**
 
 ---
@@ -21,7 +21,7 @@
 - **Stack :**
 
   - **Gothic Vania : `1.1`**
-  - **Unity**
+  - **Unity : `2021.3.19f1`**
 
 ---
 
