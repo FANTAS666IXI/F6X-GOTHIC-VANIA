@@ -1,4 +1,4 @@
-# _GOTHIC VANIA_
+# _F6X GOTHIC VANIA_
 
 ![THUMBNAIL](Resources/Img/Thumbnail.png)
 
