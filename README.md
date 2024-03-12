@@ -2,13 +2,13 @@
 
 ![THUMBNAIL](Resources/Img/Thumbnail.png)
 
-- **Description :**
+- **DESCRIPTION :**
 
   Gothic Vania is an exciting Unity game that blends elements from the beloved Castlevania and Metroid series. In this thrilling adventure, players embark on a journey through a dark and mysterious world filled with intricate levels, challenging enemies, and hidden secrets. With stunning visuals, immersive gameplay mechanics, and a haunting soundtrack, Gothic Vania promises to deliver an unforgettable gaming experience reminiscent of the classic titles it draws inspiration from.
 
 ---
 
-- **Controls :**
+- **CONTROLS :**
 
   - **Right : `D / →`**
   - **Left : `A / ←`**
@@ -18,14 +18,14 @@
 
 ---
 
-- **Stack :**
+- **STACK :**
 
-  - **Gothic Vania : `1.1`**
+  - **Gothic Vania : `1.1.1`**
   - **Unity : `2021.3.19f1`**
 
 ---
 
-- **Credits :**
+- **CREDITS :**
 
   - **Author : [FANTAS666X](https://github.com/FANTAS666IXI)**
   - **Visual Art : Ansimuz & SlowDevelopment**
